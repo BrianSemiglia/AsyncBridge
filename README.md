@@ -1,4 +1,4 @@
-# Async
+# AsyncBridge
 Execute callback-based and sync functions without rewriting their definitions.
 
 ```swift

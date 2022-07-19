@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Async
+@testable import AsyncBridge
 
 class Sync_AsyncTests: XCTestCase {
 

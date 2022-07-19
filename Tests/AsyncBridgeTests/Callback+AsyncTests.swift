@@ -1,5 +1,5 @@
 import XCTest
-@testable import Async
+@testable import AsyncBridge
 
 final class FiveTests: XCTestCase {
 

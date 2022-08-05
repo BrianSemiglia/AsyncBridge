@@ -5,7 +5,7 @@ Execute callback-based and sync functions without rewriting their definitions.
 // Callback Conversion
 
 // Before:
-foo.bar("baz", completion: { (result: Int) in /* ... */ })
+foo.bar("baz", completion: { (result: Int) in })
 
 // After:
 async let result: Int = await foo.bar >>> ("baz")

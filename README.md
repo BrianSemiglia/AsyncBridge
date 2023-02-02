@@ -1,5 +1,5 @@
 # AsyncBridge
-Execute callback-based and sync functions without rewriting their definitions.
+Execute callback-based and sync functions `async`hronously without rewriting their definitions.
 
 ```swift
 // Callback Conversion
